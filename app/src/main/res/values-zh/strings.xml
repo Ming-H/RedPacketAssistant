@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">红包助手</string>
+    <string name="accessibility_service_description">此服务可以帮助您自动抢取指定群聊和联系人的微信红包。</string>
+    <string name="enable_service">开启红包服务</string>
+    <string name="disable_service">关闭红包服务</string>
+    <string name="monitored_chats">监控的聊天</string>
+    <string name="add_chat">添加聊天</string>
+    <string name="remove">移除</string>
+    <string name="enter_chat_name">输入聊天或联系人名称</string>
+    <string name="add">添加</string>
+    <string name="cancel">取消</string>
+    <string name="service_settings">服务设置</string>
+    <string name="accessibility_settings">前往辅助功能设置</string>
+    <string name="service_status">服务状态</string>
+    <string name="active">已启用</string>
+    <string name="inactive">未启用</string>
+    <string name="no_monitored_chats">未监控任何聊天。将处理所有聊天中的红包。</string>
+</resources> 

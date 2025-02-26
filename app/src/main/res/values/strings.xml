@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Red Packet Assistant</string>
+    <string name="accessibility_service_description">This service helps you automatically grab WeChat red packets from specified groups and contacts.</string>
+    <string name="enable_service">Enable Red Packet Service</string>
+    <string name="disable_service">Disable Red Packet Service</string>
+    <string name="monitored_chats">Monitored Chats</string>
+    <string name="add_chat">Add Chat</string>
+    <string name="remove">Remove</string>
+    <string name="enter_chat_name">Enter chat or contact name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="service_settings">Service Settings</string>
+    <string name="accessibility_settings">Go to Accessibility Settings</string>
+    <string name="service_status">Service Status</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="no_monitored_chats">No chats monitored. All chats will be processed.</string>
+</resources>
